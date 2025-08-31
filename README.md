@@ -47,7 +47,7 @@ python3 -m http.server 8000
 ```
 
 ## デプロイ
-Vercelにデプロイされています。
+Vercelにデプロイされています。GitHubへのプッシュで自動デプロイが実行されます。
 
 ## ライセンス
 MIT
