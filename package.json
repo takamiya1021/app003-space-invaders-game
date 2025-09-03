@@ -4,7 +4,7 @@
   "description": "Classic Space Invaders game built with HTML5 Canvas",
   "main": "index.html",
   "scripts": {
-    "start": "python3 -m http.server 8000"
+    "start": "python3 -m http.server 8003 --bind 0.0.0.0"
   },
   "keywords": ["game", "space-invaders", "html5", "canvas", "javascript"],
   "author": "",

@@ -1,9 +1,11 @@
 # Space Invaders Game
 
+![Space Invaders Game](./images/screenshot.png)
+
 懐かしのスペースインベーダーゲームをHTML5 Canvasで再現しました。
 
 ## デモ
-🎮 [今すぐプレイ](https://vk-8b8f-kcc9ghpoz-hiroaki-yoshikuras-projects-7b26a5a1.vercel.app)
+🎮 [今すぐプレイ](https://app003-space-invaders-game-pnenr2xcx.vercel.app)
 
 ## 特徴
 - 🚀 クラシックなゲームプレイを忠実に再現
@@ -40,10 +42,10 @@ git clone https://github.com/takamiya1021/space-invaders-game.git
 cd space-invaders-game
 
 # サーバーを起動（Python 3）
-python3 -m http.server 8000
+python3 -m http.server 8003 --bind 0.0.0.0
 
 # ブラウザでアクセス
-# http://localhost:8000
+# http://localhost:8003
 ```
 
 ## デプロイ
